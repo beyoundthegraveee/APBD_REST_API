@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k+lqmalMS02CzAEV4PETmxmVM+XqFoqcxieTOIaTGCg=",
+  "Source": "APBD_REST_API",
+  "BasePath": "_content/APBD_REST_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
