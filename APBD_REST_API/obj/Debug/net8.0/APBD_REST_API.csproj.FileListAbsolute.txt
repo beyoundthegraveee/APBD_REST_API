@@ -31,3 +31,37 @@ C:\Users\s24911\RiderProjects\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\refin
 C:\Users\s24911\RiderProjects\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.pdb
 C:\Users\s24911\RiderProjects\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.genruntimeconfig.cache
 C:\Users\s24911\RiderProjects\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\ref\APBD_REST_API.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.csproj.AssemblyReference.cache
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.AssemblyInfoInputs.cache
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.AssemblyInfo.cs
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.csproj.CoreCompileInputs.cache
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.sourcelink.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\refint\APBD_REST_API.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.pdb
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\appsettings.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\APBD_REST_API.exe
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\APBD_REST_API.deps.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\APBD_REST_API.runtimeconfig.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\APBD_REST_API.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\APBD_REST_API.pdb
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\staticwebassets\msbuild.APBD_REST_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\staticwebassets\msbuild.build.APBD_REST_API.props
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APBD_REST_API.props
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APBD_REST_API.props
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\scopedcss\bundle\APBD_REST_API.styles.css
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_RES.4B7E9707.Up2Date
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\APBD_REST_API.genruntimeconfig.cache
+C:\Users\jacke\OneDrive\Рабочий стол\APBD_REST_API\APBD_REST_API\obj\Debug\net8.0\ref\APBD_REST_API.dll
